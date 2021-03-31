@@ -1,6 +1,6 @@
 <?php
-	$auth_token = 'AUTH_TOKEN';
-	$webhook = 'WEBHOOK_URL';
+	$auth_token = '4d1d268f6e67d2ff-667bd394346d64dd-3088501e36b662a7';
+	$webhook = 'uawestllc.github.io/index.php';
 	
 	$jsonData = 
 	'{
